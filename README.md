@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  WeChat: LGD825924 
+  WeChat: LGD825924  
 </p> 
 
 <h3 align="left">Languages and Tools:</h3>
