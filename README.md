@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **product design**
 
-- 👯 I’m looking to collaborate on [Gable](https://github.com/AdvancedProductivity/GableServer)
+- 👯 I’m looking to collaborate on [Gable](https://github.com/AdvancedProductivity/Gable)
 
-- 🤝 I’m looking for help with [Gable](https://github.com/AdvancedProductivity/GableServer)
+- 🤝 I’m looking for help with [Gable](https://github.com/AdvancedProductivity/Gable)
 
 - 📫 How to reach me **1694392889@qq.com**
 
